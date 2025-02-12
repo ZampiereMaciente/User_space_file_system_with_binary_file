@@ -1,24 +1,24 @@
 # user-space-filesystem
-Trabalho 2 da disciplina de Sistemas Operacionais 2
+Operating Systems II discipline.
 
-## Compilação e execução:
+## Compilation and execution:
 
-Para compilar o projeto, utilize o seguinte comando:
+To compile the project, use the following command:
 '''
-    make all
-'''
-
-Para limpar arquivos compilados e arquivos binários:
-'''
-    make clean
+make all
 '''
 
-Para executar o projeto via arquivo binário, após compilar:
+To clean compiled files and binary files:
 '''
-    ./usfs
+make clean
 '''
 
-Para uma forma simplificada de executar o programa;
+To execute the project via binary file, after compiling:
 '''
-    ./usfs.sh
+./usfs
+'''
+
+For a simplified way to execute the program;
+'''
+./usfs.sh
 '''
